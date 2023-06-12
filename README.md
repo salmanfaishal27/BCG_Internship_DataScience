@@ -44,5 +44,3 @@ Contributions to this repository are welcome! If you have any improvements, bug 
 2. Create a new branch for your contribution.
 3. Make your changes and commit them with descriptive messages.
 4. Push your changes to your forked repository.
-5. Submit a pull request to the main repository, explaining your changes and their benefits.
-The project maintainers will review your contribution, provide feedback, and merge it if everything looks good.
